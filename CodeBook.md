@@ -27,6 +27,25 @@ Contains the output data formated and summarised by mean.
 
 Conversions
 ===========
+
+code    Activty Converted
+----    ------------------
+1       WALKING
+ 
+2       WALKING_UPSTAIRS
+
+3       WALKING_DOWNSTAIRS
+
+4       SITTING
+
+5       STANDING
+
+6       LAYING
+
+
+Variables Names Descriptive
+---------------------------
+
 TimeBodyAcceleration.mean...X
 4
 TimeBodyAcceleration.mean...Y
